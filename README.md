@@ -7,5 +7,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
+<img width="1262" height="684" alt="Screenshot 2026-05-04 143735" src="https://github.com/user-attachments/assets/bf25df17-83fc-4718-9dae-549e55b14025" />
+
+
 
 
